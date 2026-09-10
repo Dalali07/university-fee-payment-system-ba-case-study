@@ -55,7 +55,7 @@ The proposed process introduces a centralized digital fee-payment workflow that 
 
 ## Documents
 
-- [Business Requirements Document](BRD/University_Fee_Payment_System_BRD.docx)
+- [Business Requirements Document]([BRD/University_Fee_Payment_System_BRD.docx](https://github.com/Dalali07/university-fee-payment-system-ba-case-study/blob/main/University_Fee_Payment_System_BA_Case_Study.docx))
 - [BA Case Study & Process Models](Case_Study/University_Fee_Payment_System_BA_Case_Study.docx)
 
 ## Disclaimer
