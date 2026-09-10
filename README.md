@@ -2,19 +2,21 @@
 
 ## Overview
 
-A self-initiated Business Analyst case study focused on analysing and improving the university student fee payment process.
+A self-initiated Business Analyst case study focused on analysing and improving a university student fee payment process.
 
 The project examines the current AS-IS process, identifies key process gaps, and proposes a TO-BE process supported by a centralized University Fee Payment System (UFPS).
 
 ## Business Problem
 
-The current fee payment process involves manual coordination between students and the Finance Department. Students may have difficulty checking their exact fee dues, while Finance staff manually verify payment proofs and update payment records.
+The current fee payment process involves manual coordination between students and the Finance Department.
 
-This can result in delayed payment confirmation, fragmented tracking, and additional administrative effort.
+Students may have difficulty checking their exact fee dues and payment status, while Finance staff manually verify payment proofs and update payment records.
+
+This can lead to delayed payment confirmation, fragmented tracking, and additional administrative effort.
 
 ## BA Approach
 
-The case study covers:
+The case study demonstrates:
 
 - Business problem analysis
 - Stakeholder identification
@@ -28,9 +30,21 @@ The case study covers:
 ## Key Deliverables
 
 ### Business Requirements Document
-Contains the business background, problem statement, scope, stakeholders, business requirements, functional requirements, non-functional requirements, assumptions, and expected benefits.
+
+Contains:
+
+- Business background
+- Problem statement
+- Scope
+- Stakeholder analysis
+- Business requirements
+- Functional requirements
+- Non-functional requirements
+- Assumptions
+- Expected business benefits
 
 ### Process & UML Models
+
 Includes:
 
 - AS-IS process
@@ -55,8 +69,8 @@ The proposed process introduces a centralized digital fee-payment workflow that 
 
 ## Documents
 
-- [Business Requirements Document]([BRD/University_Fee_Payment_System_BRD.docx](https://github.com/Dalali07/university-fee-payment-system-ba-case-study/blob/main/University_Fee_Payment_System_BA_Case_Study.docx))
-- [BA Case Study & Process Models](Case_Study/University_Fee_Payment_System_BA_Case_Study.docx)
+- [Business Requirements Document](./University_Fee_Payment_System_BRD.docx)
+- [BA Case Study & Process Models](./University_Fee_Payment_System_BA_Case_Study.docx)
 
 ## Disclaimer
 
